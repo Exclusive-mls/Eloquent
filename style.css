@@ -1,0 +1,84 @@
+
+body   {
+	color:grey;
+	background:darkgrey;
+
+}
+
+marquee {
+	 margin-top:50px;
+	 margin-bottom:50px;
+	 padding-left:25px;
+	 padding-right:25px;
+	 color:darkorange;
+	 background:black;
+}
+h1  {
+	font-family:Stencil Std;
+	font-size:17px;
+	margin-top:50px;
+	align-content:stretch;
+	color:whitesmoke;
+}
+nav {
+	text-transform:uppercase;
+	padding-left:450px;
+
+
+}
+button { 
+	color:darkorange;
+	background:black;
+}
+
+  p  {
+  	color:lightskyblue;
+  	margin bottom:30px;
+  	padding-left:30px;
+  	margin-top: 45px;
+  	font-size:25px;
+  }
+  img      {
+  	display:flex;
+  	flex-grow:calc(60px,90px);
+  	flex-wrap:wrap;
+  	width:45%;
+  	height:45%;
+
+  	margin:17px;
+  	;
+
+}
+cite {
+	color:darkorange;
+}
+h3  {
+	font-size:47px;
+}
+section {
+	display:flex;
+	  background-color:antiquewhite;
+	  padding:72px;
+	  margin-bottom:900px;
+
+}
+details {
+	font-size:30px;
+}
+h2 {
+	color:forestgreen;
+		font-family:Stencil Std;
+	font-size:40px;
+}
+
+h4 {
+	color:forestgreen;
+		font-family:Stencil Std;
+	font-size:40px;
+} 
+
+h5  {
+	color:forestgreen;
+		font-family:Stencil Std;
+	font-size:40px;
+}
